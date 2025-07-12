@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1396168686 source:c:\users\ceyk's thinkpad\desktop\prog1\try4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
